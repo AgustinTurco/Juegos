@@ -1,0 +1,47 @@
+body {
+    width: 600px;
+    margin: 0 auto;
+    flex-wrap: wrap;
+    background: linear-gradient(to right,#131086,#b621f3 );
+}
+h1 {
+    text-align: center;
+}
+#miCanvas {
+    border: groove 2px red;
+    background: black;
+    box-shadow: 10px 10px 10px #888888;
+}
+.botonesMover{
+    color: #e8e8e8;
+    background-color: #006df1;
+    border-radius: 10px;
+    height: 30px;
+    width: 25%;
+    margin: 1%;
+    font-size: 14px;
+    font-weight: bold;
+}
+.botonDisparo{
+    color: #e8e8e8;
+    background-color: #ae0000;
+    border-radius: 10px;
+    height: 30px;
+    width: 42%;
+    margin: 1%;
+    font-size: 14px;
+    font-weight: bold;
+}
+.yoboton{
+    color: #e8e8e8;
+    text-decoration: none;
+    border: none;
+    background:white;
+    padding: 1rem;
+    border-radius: 100px;
+    text-align: center;
+    font-size: 18px;
+    
+  
+    
+}

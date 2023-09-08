@@ -1,0 +1,39 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    padding: 0;
+    margin: 0;
+    background: linear-gradient(to right,#131086,#b621f3 );
+    
+}
+.titulo{
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif ;
+    text-align: center;
+    flex-wrap: wrap;
+}
+.juego2{
+    border: none;
+    background: white;
+    color: white;
+    padding: 1rem;
+    border-radius: 100px;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 18px;
+    height: 55px;
+    cursor: pointer;
+    flex-wrap: wrap;
+    
+}
+.fotoneta1{
+    border-radius: 10px;
+    height: 150px;
+    flex-wrap: wrap;
+}
+.fotoneta2{
+    border-radius: 10px;
+    height: 200px;
+    flex-wrap: wrap;
+}
